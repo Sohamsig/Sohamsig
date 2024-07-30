@@ -1,3 +1,6 @@
+Sohamsig
+next
+Author-sohamsig
 ## Hi i am soham babrekar  👋
 this is my 1st repository
 <!--
