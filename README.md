@@ -1,5 +1,5 @@
 Sohamsig
-## Sohamsig  👋
+## Soham babrekar   👋
 this is my 1st repository
 <!--
 **Sohamsig/Sohamsig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
