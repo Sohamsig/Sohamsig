@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 ![image](https://github.com/user-attachments/assets/085f62ab-27b5-46f3-8440-c0a66ce10785)
 
+![image](https://github.com/user-attachments/assets/77116465-bf96-45bd-9bc5-060aec9443e4)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsig&label=Profile%20views&color=0e75b6&style=flat" alt="sohamsig" /> </p>
