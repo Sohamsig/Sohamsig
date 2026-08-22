@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Soham
 
-**AI / Full-Stack Engineer | Open Source Contributor | Building Agentic Developer Tools**
+**AI / Full-Stack Engineer | Open Source Contributor | Cloud-Native| Building Agentic Developer Tools**
 
 I build AI-powered developer tools, backend systems, and open-source software with a focus on **Go, TypeScript, React, LLMs, and cloud-native technologies**.
 
