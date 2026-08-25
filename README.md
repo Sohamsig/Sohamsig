@@ -8,9 +8,19 @@ Currently building **DevPilot AI** and contributing to **Meshery / Layer5 / CNCF
 
 <div><a href="https://cloud.layer5.io/user/2d134486-9994-4444-9c67-fcaad879a42e?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io"></a></sup></div>
 
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 **I’m currently working on**<br>→ **DevPilot AI** — an agentic AI software engineering platform for code generation, debugging, testing, and developer workflows.<br><br>🤝 **I’m looking to collaborate on**<br>→ AI/LLM applications, agentic systems, Go backend projects, developer tools, and open-source projects.<br><br>🫱 **I’m looking for help with**<br>→ Building production-grade AI agents, scalable backend systems, and improving developer tooling.<br><br>🌱 **I’m currently learning**<br>→ **Golang • Agentic AI • RAG • LLM APIs • Docker • Kubernetes • CI/CD**<br><br>💬 **Ask me about**<br>→ **Go • React • JavaScript/TypeScript • REST APIs • PostgreSQL • AI Agents • Open Source • Meshery/CNCF**<br><br>⚡ **Fun fact**<br>→ I enjoy turning real developer problems into **AI-powered tools** and contributing to open-source projects along the way.<br>
+const information = {
+    name: "Soham Babrekar",
+    pronouns: "he/him",
+    currentOrganisation: "Open Source Contributor",
+    location: "Maharashtra, India",
 
+    skills: {
+        languages: ["Java", "C++", "JavaScript", "TypeScript", "Go", "SQL"],
+        frameworks: ["ReactJS", "NodeJS", "ExpressJS", "Gin"],
+        databases: ["PostgreSQL", "PostGIS"],
+        tools: ["Git", "GitHub", "Docker", "Kubernetes"],
+    },
+};
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sohambabrekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BabrekarSo86590) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soham.babrekar@gmail.com) 
