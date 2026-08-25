@@ -6,8 +6,6 @@ I build AI-powered developer tools, backend systems, and open-source software wi
 
 Currently building **DevPilot AI** and contributing to **Meshery / Layer5 / CNCF**.
 
-<div><a href="https://cloud.layer5.io/user/2d134486-9994-4444-9c67-fcaad879a42e?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io"></a></sup></div>
-
 ```js
 const information = {
     name: "Soham Babrekar",
@@ -23,6 +21,9 @@ const information = {
     },
 };
 ```
+
+<div><a href="https://cloud.layer5.io/user/2d134486-9994-4444-9c67-fcaad879a42e?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io"></a></sup></div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sohambabrekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BabrekarSo86590) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soham.babrekar@gmail.com) 
 
