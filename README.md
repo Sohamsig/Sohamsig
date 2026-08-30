@@ -3,7 +3,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=1890FF&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Cloud+Native;DevOps+Engineer+%7C+AI+Engineer;Open+Source+Contributor+%7C+5%2B+Orgs;Software+Engineer+%7C+AI+Enthusiast;Building+DevPilot+AI+%7C+Agentic+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=1890FF&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Cloud+Native;DevOps+%7C+Agentic+AI+;Open+Source+Contributor+%7C+5%2B+Orgs;Software+Engineer+%7C+AI+Enthusiast;Building+DevPilot+AI+%7C+Agentic+AI"
     alt="Typing animation"
   />
 </p>
