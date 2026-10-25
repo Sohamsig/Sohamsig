@@ -1,6 +1,5 @@
 # Hey, I'm Soham Babrekar 👋
 
-
 <h1 align="center">Hey, I'm Soham 👋</h1>
 
 <p align="center">
