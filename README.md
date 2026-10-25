@@ -1,11 +1,12 @@
 # Hey, I'm Soham Babrekar 👋
 
-<p align="center">
-  <img src="YOUR_EXISTING_TYPING_ANIMATION_URL" alt="Typing animation" />
-</p>
+
+<h1 align="center">Hey, I'm Soham 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Backend Developer · Open-Source Contributor</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;Backend+Engineer+%E2%9A%99%EF%B8%8F;AI+Engineer+%F0%9F%A4%96;Agentic+AI+Developer+%F0%9F%A7%A0;DevOps+%26+Cloud-Native+Engineer+%E2%98%81%EF%B8%8F;AI+Agent+Evaluation+%26+Reliability;Open-Source+Contributor+%F0%9F%9A%80;Building+DevPilot+AI" alt="Typing SVG" />
+  </a>
 </p>
 
 I build AI-powered developer tools, backend systems, and open-source software with a focus on Go, TypeScript, React, LLMs, and cloud-native technologies.
